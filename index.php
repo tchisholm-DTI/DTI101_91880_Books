@@ -48,6 +48,7 @@
                 <li><a href="http://www.hamiltonlibraries.co.nz/" target="_blank">Hamilton</a></li>
                 <li><a href="http://codc-qldc.govt.nz/" target="_blank">Otago</a></li>
                 <li><a href="http://www.wcl.govt.nz/" target="_blank">Wellington</a></li>
+                    <li><a href="#">Taihape</a></li>
             </ul>
         </div><!--/side-->
 
