@@ -12,6 +12,8 @@
 
                 <p>All artwork used on this page is either Public Domain (via Pixabay) or it is cover art from the book being reviewed.</p>
                     
+                    <p>test</p>
+                    
                 <div class="middle">
                 <img src ="images/books_beach.jpg" alt="books at the beach"/>
                 </div>
